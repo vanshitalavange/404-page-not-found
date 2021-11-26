@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Mohave&display=swap");
+
+#error-name {
+  font-family: "Inconsolata", monospace;
+  font-family: "Mohave", sans-serif;
+}
