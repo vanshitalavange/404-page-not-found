@@ -1,6 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Mohave&family=Montserrat:wght@700&family=Space+Mono:wght@400;700&display=swap");
 body {
   margin: 0;
+  padding: 0;
+  /* box-sizing: border-box; */
+  min-height:100vh;
+  display:flex;
+  flex-direction: column;
+
 }
 :root {
   --primary-color: #333333;
@@ -94,12 +100,12 @@ body {
 .footer-details {
   font-family: montserrat;
   text-align: center;
-  margin-top: 8vh;
+  margin-top: auto;
   color: #bdbdbd;
   line-height: 1rem;
   font-size: 0.8rem;
-  margin-left: 3em;
-  margin-bottom: 0;
+  /* margin-left: 3em;
+  margin-bottom: 0;  */
 }
 .footer-details a {
   color: #bdbdbd;
