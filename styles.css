@@ -101,11 +101,12 @@ body {
   font-family: montserrat;
   text-align: center;
   margin-top: auto;
+  margin-bottom: 1%;
   color: #bdbdbd;
   line-height: 1rem;
   font-size: 0.8rem;
-  /* margin-left: 3em;
-  margin-bottom: 0;  */
+  margin-left: 4em;
+
 }
 .footer-details a {
   color: #bdbdbd;
