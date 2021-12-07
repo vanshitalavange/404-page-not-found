@@ -30,11 +30,10 @@ body {
 }
 
 .error-details {
-  /* margin-top: 10vh;  */
-  /* margin-left: 7vh; */
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-around; 
+
   flex-wrap: wrap;
 }
 
@@ -47,10 +46,9 @@ body {
   flex-direction: column;
   gap:3vh;
   width:44em;
-  /* justify-content: space-between; */
+
 }
 .error-heading {
-  /* max-width: 10em; */
   width:100%;
   font-family: Space Mono;
   font-weight: bold;
@@ -60,7 +58,7 @@ body {
   color: var(--primary-color);
 }
 .error-message p {
-  /* max-width: 20em; */
+
   width:62%;
   font-family: Space Mono;
   font-size: 1.5rem;
@@ -88,7 +86,7 @@ body {
   color: #bdbdbd;
   line-height: 1rem;
   font-size: 0.8rem;
-  /* margin-left: 4em; */
+  
 }
 .footer-details a {
   color: #bdbdbd;
