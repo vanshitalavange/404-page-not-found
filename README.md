@@ -36,7 +36,13 @@
 
 ## Overview
 
-![screenshot](images/404-combined.png)
+- Desktop view
+
+  ![screenshot](images/404-desktop.png)
+
+- Mobile view
+
+  ![screenshot](images/404-mobile.png)
 
 
 ### Built With
